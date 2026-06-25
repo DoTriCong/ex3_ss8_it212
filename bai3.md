@@ -27,6 +27,7 @@ public class LedgerBalanceCalculator {
         return totalBalance;
     }
 }
+```
 ### Vòng 2: Maintainability & OOP
 Mục tiêu: Tối ưu bằng Java 17 Stream API, dễ đọc, ngắn gọn.
 
